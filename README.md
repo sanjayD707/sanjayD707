@@ -1,16 +1,48 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/7zV2c5R/developer-banner.png" alt="Banner" width="100%" />
+</p>
 
-<!--
-**sanjayD707/sanjayD707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Sanjay D</h1>
+<h3 align="center">A passionate Frontend Developer and UI/UX Designer from India</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me  
+- 🔭 I’m currently working on **Frontend Development & UI/UX Projects**  
+- 🌱 I’m currently learning **Node.js & JavaScript (ES6)**  
+- 🎨 Skilled in **Figma** for UI/UX Design  
+- ⚡ I enjoy creating **responsive, user-friendly web apps**  
+
+---
+
+### 🛠️ Skills  
+
+#### 💻 Programming & Web Development  
+<p align="left"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+</p>
+
+#### 🎨 UI/UX Design  
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="50" height="50"/> 
+</p>
+
+---
+
+### 📫 Connect with Me  
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" />
+  </a>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="40" width="40" />
+  </a>
+</p>
+
+---
+
+⭐️ From [Sanjay D](https://github.com/YOUR-GITHUB-USERNAME)
