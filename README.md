@@ -28,7 +28,7 @@
 
 #### 🎨 UI/UX Design  
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="50" height="50"/> 
+  <img src="figma-logo-icon-figma-app-editable-transparent-background-premium-social-media-design-for-digital-download-free-png.webp" alt="figma" width="50" height="50"/> 
 </p>
 
 ---
