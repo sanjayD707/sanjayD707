@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Gemini_Generated_image_igkl88igkl88igkl.png" alt="Banner" width="100%" />
+  <img src="Gemini_Generated_Image_igkl88igkl88igkl.png" alt="Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sanjay D</h1>
